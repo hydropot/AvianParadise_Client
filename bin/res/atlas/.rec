@@ -1,0 +1,358 @@
+D .
+D comp
+P 316AD948 btn_close.png
+P 5B258D17 button.png
+P 3C493DD4 check_circle.png
+P 98E54F0D checkbox.png
+P 6B7AB858 clip_num.png
+P 63A22FAC clip_tree_arrow.png
+P D749C312 clip_tree_folder.png
+P 8E9C8386 colorPicker.png
+P 704C5D70 combobox.png
+P D566AE8B fontClip.png
+P 38AB8F3F fontClip_num.png
+P 6EF336AE hscroll$bar.png
+P 7FF47AC5 hscroll$down.png
+P 3D7B147A hscroll$up.png
+P 750BD445 hscroll.png
+P 9A5EF899 hslider$bar.png
+P 9CED7132 hslider.png
+P BA2A0579 html.png
+P 8236CD48 image.png
+P 4ACB7AEF img_bg.png
+P FCD04607 img_bg2.png
+P 23FB4D29 img_bg3.png
+P 5FD17798 img_bg4.png
+P 2BE22124 img_bg5.png
+P BA28BD65 img_blank.png
+P BA2A0579 label.png
+P B017E53E progress$bar.png
+P C05839CD progress.png
+P 3C493DD4 radio.png
+P 3C493DD4 radiogroup.png
+P 5BA25C15 tab.png
+P A3D7A036 textarea.png
+P A3D7A036 textinput.png
+P 2DCE1DF9 vscroll$bar.png
+P 6FE7EA34 vscroll$down.png
+P 0587871F vscroll$up.png
+P 5FD17798 vscroll.png
+P DDDDFB9E vslider$bar.png
+P 01BAE7F5 vslider.png
+D UI
+R 2D89E294 bg_fight.jpg
+P 4143E612 choose.png
+P 0C87B0E4 close.png
+R EBA8A4D5 kuang.png
+R 0205973D main_top.png
+P 0A2E92B3 startbg.png
+R C306C891 修改头像.png
+D UI/Game_UI
+P 65A31D4C btn_Bounce.png
+P C604E5FA btn_Eat.png
+P 059C079F btn_fear.png
+P C52215E9 btn_roll.png
+P 67631805 btn_send.png
+P C5BCAFD0 btn_sit.png
+P A6353B5E btn_spin.png
+P 1DF5BD33 button.png
+R 003F46AE button.sai2
+R 548AEE91 button_right.sai2
+R F6FAE7AA chatbg.png
+P EB807200 flyicon.png
+P B2191044 yaogan.png
+R CA3195CE 摇杆.png
+D UI/icon0
+P D603A5F9 0.png
+P 93BE1411 1.png
+P 62100440 10.png
+P 0A47C033 11.png
+P F1EFFCD6 12.png
+P A4D82FD1 13.png
+P 44D6F65C 14.png
+P DA4463A9 15.png
+P E620FF00 16.png
+P BA837081 17.png
+P A7038CB1 18.png
+P 81DF8FB7 19.png
+P 30CB79AF 2.png
+P 561A3B5B 20.png
+P CE434684 21.png
+P 8915E08D 22.png
+P 05BA759F 23.png
+P F9EABA01 24.png
+P 4ACD3BD9 25.png
+P 593FCA39 26.png
+P F7639CBE 27.png
+P 13C06732 28.png
+P FB7DD28A 29.png
+P 0D87B698 3.png
+P 33F38398 30.png
+P 70AD5D32 31.png
+P EFEABE9C 32.png
+P 9660EA48 33.png
+P 82F18562 34.png
+P 51AFDD55 35.png
+P 232FAB2D 36.png
+P E7ABD109 37.png
+P AEE2423C 38.png
+P 94172B8D 39.png
+P 9017B2EA 4.png
+P 07FE2E0D 40.png
+P B141614D 41.png
+P 3DB0E161 42.png
+P 58A9C6EB 43.png
+P 7D16098C 44.png
+P 6F2EE610 45.png
+P 345CA937 46.png
+P 2C7BEE6D 47.png
+P F80EE342 48.png
+P DD373B16 49.png
+P CA4A07B2 5.png
+P 59461990 50.png
+P F83FFEA9 51.png
+P 8F0951EA 52.png
+P C33B7212 53.png
+P D4BBA0CE 54.png
+P 6F02B9E1 55.png
+P B581C9C0 56.png
+P 8523CF44 57.png
+P 756B9705 58.png
+P 052A658A 59.png
+P 27DAD60C 6.png
+P 33F09F2F 60.png
+P D71D1741 61.png
+P E70C3B7F 62.png
+P 502D03B3 63.png
+P FB260C6F 64.png
+P 6521FA12 65.png
+P 259C8E50 66.png
+P A5EA2415 67.png
+P 2E5DA944 68.png
+P 85274E76 69.png
+P 8A17DFF9 7.png
+P 7C09146E 70.png
+P 66042768 71.png
+P 0AA45189 72.png
+P 1CFB0721 73.png
+P 5915024B 74.png
+P 0E9BAAFD 75.png
+P 7CD22766 76.png
+P 8D30E968 77.png
+P AE941FEC 78.png
+P 8F2CCA1C 79.png
+P 4C3AB618 8.png
+P C6109165 80.png
+P 02AAF503 81.png
+P 68C02AA3 82.png
+P 9F277619 83.png
+P 8B877688 84.png
+P 8E10DC1E 85.png
+P 27A67EB9 86.png
+P 450FA70A 87.png
+P BDDDDA94 88.png
+P 5A502AB4 89.png
+P F298CCA4 9.png
+D UI/rubbish
+R 5BE48C98 baiyun_enter1.png
+R 46809B73 baiyun_enter2.png
+R B115D78B baiyun_normal1.png
+R 78252BDA baiyun_normal2.png
+P FDB892C2 bullet.png
+R B6E7FBB4 main_match.png
+R DE69665B main_top_原.png
+P 94E80FEE plane.png
+P EB807200 touxiang6.png
+R C050293D 匹配.png
+P 2FE9EDBC 匹配_中间.png
+R 4517A54F 匹配_扫描.png
+D UI/touxiang0
+P 294EAAC7 touxiang0.png
+P FE5CB743 touxiang1.png
+P 001581D0 touxiang2.png
+P 021CF789 touxiang3.png
+P 047E2A66 touxiang4.png
+P 6E3EF6DB touxiang5.png
+P FF860D0F touxiang6.png
+P A45A4FF3 touxiang7.png
+P 57921304 touxiang8.png
+P 294EAAC7 touxiang9.png
+D UI/rubbish/LayaScene_New Scene
+D UI/rubbish/LayaScene_New Scene1
+D UI/rubbish/LayaScene_New Scene2
+D UI/rubbish/LayaScene_NewScene
+D UI/rubbish/LayaScene_ShowScene1
+D UI/rubbish/LayaScene_New Scene/Conventional
+R 59ACBA56 New Scene.ls
+D UI/rubbish/LayaScene_New Scene1/Conventional
+R 7BEDF60A New Scene.ls
+D UI/rubbish/LayaScene_New Scene2/Conventional
+R 4D79932D New Scene.ls
+D UI/rubbish/LayaScene_NewScene/Conventional
+R 425E9705 NewScene.ls
+D UI/rubbish/LayaScene_ShowScene1/Conventional
+R 2A1D4196 AbbottBooby_LOD0.lh
+R E3D9FF7C Directional Light.lh
+R AE35BF81 Main Camera.lh
+R E7B6D93F ShowScene.ls
+D UI/rubbish/LayaScene_New Scene/Conventional/Assets
+D UI/rubbish/LayaScene_New Scene/Conventional/Library
+R 55353E42 unity default resources-Cube.lm
+R A2C49BE0 unity default resources-Plane.lm
+D UI/rubbish/LayaScene_New Scene/Conventional/Resources
+R EB8C63A1 unity_builtin_extra.lmat
+D UI/rubbish/LayaScene_New Scene1/Conventional/Assets
+D UI/rubbish/LayaScene_New Scene1/Conventional/Library
+R 55353E42 unity default resources-Cube.lm
+R A2C49BE0 unity default resources-Plane.lm
+D UI/rubbish/LayaScene_New Scene1/Conventional/Resources
+R EB8C63A1 unity_builtin_extra.lmat
+D UI/rubbish/LayaScene_New Scene2/Conventional/Assets
+D UI/rubbish/LayaScene_New Scene2/Conventional/Library
+R 55353E42 unity default resources-Cube.lm
+R A2C49BE0 unity default resources-Plane.lm
+D UI/rubbish/LayaScene_New Scene2/Conventional/Resources
+R EB8C63A1 unity_builtin_extra.lmat
+D UI/rubbish/LayaScene_NewScene/Conventional/Assets
+D UI/rubbish/LayaScene_NewScene/Conventional/Library
+R 55353E42 unity default resources-Cube.lm
+R A2C49BE0 unity default resources-Plane.lm
+D UI/rubbish/LayaScene_NewScene/Conventional/Resources
+R EB8C63A1 unity_builtin_extra.lmat
+D UI/rubbish/LayaScene_ShowScene1/Conventional/Assets
+D UI/rubbish/LayaScene_New Scene/Conventional/Assets/Quirky Series Ultimate
+D UI/rubbish/LayaScene_New Scene1/Conventional/Assets/Quirky Series Ultimate
+D UI/rubbish/LayaScene_New Scene2/Conventional/Assets/Quirky Series Ultimate
+D UI/rubbish/LayaScene_NewScene/Conventional/Assets/Quirky Series Ultimate
+D UI/rubbish/LayaScene_ShowScene1/Conventional/Assets/Quirky Series Ultimate
+D UI/rubbish/LayaScene_New Scene/Conventional/Assets/Quirky Series Ultimate/_Animations
+D UI/rubbish/LayaScene_New Scene/Conventional/Assets/Quirky Series Ultimate/Birds Bundle
+R 334560A7 New Material.lmat
+R 2F92FBFE New SceneGIReflection.ltcb.ls
+D UI/rubbish/LayaScene_New Scene1/Conventional/Assets/Quirky Series Ultimate/Birds Bundle
+R 334560A7 New Material.lmat
+R 2F92FBFE New SceneGIReflection.ltcb.ls
+D UI/rubbish/LayaScene_New Scene2/Conventional/Assets/Quirky Series Ultimate/Birds Bundle
+R 334560A7 New Material.lmat
+R 2F92FBFE New SceneGIReflection.ltcb.ls
+D UI/rubbish/LayaScene_NewScene/Conventional/Assets/Quirky Series Ultimate/Birds Bundle
+R 334560A7 New Material.lmat
+R 2F92FBFE NewSceneGIReflection.ltcb.ls
+D UI/rubbish/LayaScene_ShowScene1/Conventional/Assets/Quirky Series Ultimate/_Animations
+D UI/rubbish/LayaScene_ShowScene1/Conventional/Assets/Quirky Series Ultimate/Birds Bundle
+D UI/rubbish/LayaScene_New Scene/Conventional/Assets/Quirky Series Ultimate/_Animations/Shapekey
+R 137BE41F Eyes_Annoyed-Eyes_Annoyed.lani
+R D48741E1 Eyes_Blink-Eyes_Blink.lani
+R 1D2DD5D3 Eyes_Cry-Eyes_Cry.lani
+R C2CFFAE4 Eyes_Dead-Eyes_Dead.lani
+R 9E9FB26A Eyes_Excited-Eyes_Excited.lani
+R E4A1B5A0 Eyes_Happy-Eyes_Happy.lani
+R 09692A80 Eyes_LookDown-Eyes_LookDown.lani
+R 0D5B0FA0 Eyes_LookIn-Eyes_LookIn.lani
+R 8DC96445 Eyes_LookOut-Eyes_LookOut.lani
+R 09DD0A94 Eyes_LookUp-Eyes_LookUp.lani
+R 34CD2D83 Eyes_Rabid-Eyes_Rabid.lani
+R 193A52F2 Eyes_Sad-Eyes_Sad.lani
+R E47EB4B6 Eyes_Shrink-Eyes_Shrink.lani
+R 732AA255 Eyes_Sleep-Eyes_Sleep.lani
+R 1AE754CD Eyes_Spin-Eyes_Spin.lani
+R 03DC3488 Eyes_Squint-Eyes_Squint.lani
+R 0F5122D3 Eyes_Trauma-Eyes_Trauma.lani
+R BEA05D1B Sweat_L-Sweat_L.lani
+R 7C6F2948 Sweat_R-Sweat_R.lani
+R 1CC9350F Teardrop_L-Teardrop_L.lani
+R DE06415C Teardrop_R-Teardrop_R.lani
+D UI/rubbish/LayaScene_New Scene/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Animations
+R 5D29EF04 RedWhiskeredBulbul_Animations-Attack.lani
+R 52C66860 RedWhiskeredBulbul_Animations-Bounce.lani
+R 613A1FF6 RedWhiskeredBulbul_Animations-Clicked.lani
+R C1DFFA59 RedWhiskeredBulbul_Animations-Death.lani
+R B6109FA6 RedWhiskeredBulbul_Animations-Eat.lani
+R FEF5ECEE RedWhiskeredBulbul_Animations-Fear.lani
+R E4894090 RedWhiskeredBulbul_Animations-Fly.lani
+R 8CEE9388 RedWhiskeredBulbul_Animations-Hit.lani
+R D49EE509 RedWhiskeredBulbul_Animations-Idle_A.lani
+R 58FAC3D8 RedWhiskeredBulbul_Animations-Jump.lani
+R F286811E RedWhiskeredBulbul_Animations-Roll.lani
+R EE58DB97 RedWhiskeredBulbul_Animations-Run.lani
+R E8DC4563 RedWhiskeredBulbul_Animations-Sit.lani
+R 2C1BA5DA RedWhiskeredBulbul_Animations-Spin.lani
+R 9C94D0B1 RedWhiskeredBulbul_Animations-Swim.lani
+R 97B6FA83 RedWhiskeredBulbul_Animations-Walk.lani
+D UI/rubbish/LayaScene_New Scene/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Materials
+R 3C167120 M_RedWhiskeredBulbul.lmat
+D UI/rubbish/LayaScene_New Scene/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Models
+R 66F3B5EA RedWhiskeredBulbul_LOD0-Mesh.lm
+D UI/rubbish/LayaScene_New Scene/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Textures
+P 1B26DE91 T_RedWhiskeredBulbul.jpg
+D UI/rubbish/LayaScene_New Scene1/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Animations
+R 5D29EF04 RedWhiskeredBulbul_Animations-Attack.lani
+R 52C66860 RedWhiskeredBulbul_Animations-Bounce.lani
+R 613A1FF6 RedWhiskeredBulbul_Animations-Clicked.lani
+R C1DFFA59 RedWhiskeredBulbul_Animations-Death.lani
+R B6109FA6 RedWhiskeredBulbul_Animations-Eat.lani
+R FEF5ECEE RedWhiskeredBulbul_Animations-Fear.lani
+R E4894090 RedWhiskeredBulbul_Animations-Fly.lani
+R 8CEE9388 RedWhiskeredBulbul_Animations-Hit.lani
+R D49EE509 RedWhiskeredBulbul_Animations-Idle_A.lani
+R 58FAC3D8 RedWhiskeredBulbul_Animations-Jump.lani
+R F286811E RedWhiskeredBulbul_Animations-Roll.lani
+R E8DC4563 RedWhiskeredBulbul_Animations-Sit.lani
+R 2C1BA5DA RedWhiskeredBulbul_Animations-Spin.lani
+R 9C94D0B1 RedWhiskeredBulbul_Animations-Swim.lani
+R 97B6FA83 RedWhiskeredBulbul_Animations-Walk.lani
+D UI/rubbish/LayaScene_New Scene1/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Materials
+R 3C167120 M_RedWhiskeredBulbul.lmat
+D UI/rubbish/LayaScene_New Scene1/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Models
+R 66F3B5EA RedWhiskeredBulbul_LOD0-Mesh.lm
+D UI/rubbish/LayaScene_New Scene1/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Textures
+P 1B26DE91 T_RedWhiskeredBulbul.jpg
+D UI/rubbish/LayaScene_ShowScene1/Conventional/Assets/Quirky Series Ultimate/_Animations/Shapekey
+R 137BE41F Eyes_Annoyed-Eyes_Annoyed.lani
+R D48741E1 Eyes_Blink-Eyes_Blink.lani
+R 1D2DD5D3 Eyes_Cry-Eyes_Cry.lani
+R C2CFFAE4 Eyes_Dead-Eyes_Dead.lani
+R 9E9FB26A Eyes_Excited-Eyes_Excited.lani
+R E4A1B5A0 Eyes_Happy-Eyes_Happy.lani
+R 09692A80 Eyes_LookDown-Eyes_LookDown.lani
+R 0D5B0FA0 Eyes_LookIn-Eyes_LookIn.lani
+R 8DC96445 Eyes_LookOut-Eyes_LookOut.lani
+R 09DD0A94 Eyes_LookUp-Eyes_LookUp.lani
+R 34CD2D83 Eyes_Rabid-Eyes_Rabid.lani
+R 193A52F2 Eyes_Sad-Eyes_Sad.lani
+R E47EB4B6 Eyes_Shrink-Eyes_Shrink.lani
+R 732AA255 Eyes_Sleep-Eyes_Sleep.lani
+R 1AE754CD Eyes_Spin-Eyes_Spin.lani
+R 03DC3488 Eyes_Squint-Eyes_Squint.lani
+R 0F5122D3 Eyes_Trauma-Eyes_Trauma.lani
+R BEA05D1B Sweat_L-Sweat_L.lani
+R 7C6F2948 Sweat_R-Sweat_R.lani
+R 1CC9350F Teardrop_L-Teardrop_L.lani
+R DE06415C Teardrop_R-Teardrop_R.lani
+D UI/rubbish/LayaScene_ShowScene1/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Animations
+R 3D46F2C1 AbbottBooby_Animations-Attack.lani
+R 10D7B3EE AbbottBooby_Animations-Bounce.lani
+R AEC2889C AbbottBooby_Animations-Clicked.lani
+R 927FE32C AbbottBooby_Animations-Death.lani
+R 68BB7754 AbbottBooby_Animations-Eat.lani
+R 940A1721 AbbottBooby_Animations-Fear.lani
+R C91998CB AbbottBooby_Animations-Fly.lani
+R 103E6809 AbbottBooby_Animations-Hit.lani
+R 72F3201A AbbottBooby_Animations-Idle_A.lani
+R 99B4CDB5 AbbottBooby_Animations-Idle_B.lani
+R 14F01CF9 AbbottBooby_Animations-Idle_C.lani
+R 838A22E9 AbbottBooby_Animations-Jump.lani
+R A9BB9174 AbbottBooby_Animations-Roll.lani
+R 9D11DC85 AbbottBooby_Animations-Run.lani
+R E742BF04 AbbottBooby_Animations-Sit.lani
+R C15959B9 AbbottBooby_Animations-Spin.lani
+R 8A5A4856 AbbottBooby_Animations-Swim.lani
+R FF3EEE88 AbbottBooby_Animations-Walk.lani
+D UI/rubbish/LayaScene_ShowScene1/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Demo
+R 2CB5661E ShowSceneGIReflection.ltcb.ls
+D UI/rubbish/LayaScene_ShowScene1/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Materials
+R EB5F97C7 M_AbbottBooby.lmat
+D UI/rubbish/LayaScene_ShowScene1/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Models
+R 8A3B7E70 AbbottBooby_LOD0-Mesh.lm
+D UI/rubbish/LayaScene_ShowScene1/Conventional/Assets/Quirky Series Ultimate/Birds Bundle/Textures
+P 0D20F62B T_AbbottBooby.png

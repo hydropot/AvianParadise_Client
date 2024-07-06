@@ -1,0 +1,38 @@
+{
+	"version":"LAYAHIERARCHY:02",
+	"data":{
+		"type":"DirectionLight",
+		"instanceID":15,
+		"props":{
+			"name":"Directional Light",
+			"active":true,
+			"isStatic":false,
+			"layer":0,
+			"position":[
+				0,
+				3,
+				0
+			],
+			"rotation":[
+				-0.3659981,
+				0.4531538,
+				0.2113091,
+				0.7848856
+			],
+			"scale":[
+				1,
+				1,
+				1
+			],
+			"intensity":0.6,
+			"lightmapBakedType":0,
+			"color":[
+				1,
+				0.9568627,
+				0.8392157
+			]
+		},
+		"components":[],
+		"child":[]
+	}
+}
