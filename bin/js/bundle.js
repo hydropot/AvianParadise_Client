@@ -1072,8 +1072,7 @@
                 this.speed=speed;
             });
             Laya.stage.on("OnRotate",this,function(angle){
-                this.owner.transform.localRotationEulerY=angle+this.camera.transform.rotationEuler.y;
-                console.log("dhiauh",this.camera.transform.rotationEuler.y,angle);
+                this.owner.transform.localRotationEulerY=angle+this.camera.transform.rotationEuler.y;//保持行进方向与视角一致
             });
 
             Laya.stage.on("Fly",this,function(){////起飞方式之按钮
