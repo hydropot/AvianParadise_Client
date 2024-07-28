@@ -97,11 +97,11 @@ export default class Player extends Laya.Script3D {
         this.owner.transform.getForward(this.direction)
         if(this.speed!=0){
             if(!this.character.isGrounded){
-            this.owner.transform.localPositionX+=this.direction.x*(-1)*this.speed*2/100
-            this.owner.transform.localPositionZ+=this.direction.z*(-1)*this.speed*2/100
+            this.owner.transform.localPositionX+=this.direction.x*(-1)*this.speed*3/100
+            this.owner.transform.localPositionZ+=this.direction.z*(-1)*this.speed*3/100
             }else if(this.character.isGrounded){
-                this.owner.transform.localPositionX+=this.direction.x*(-1)*this.speed/100
-                this.owner.transform.localPositionZ+=this.direction.z*(-1)*this.speed/100
+                this.owner.transform.localPositionX+=this.direction.x*(-1)*this.speed*2/100
+                this.owner.transform.localPositionZ+=this.direction.z*(-1)*this.speed*2/100
             }
         }
         //平时的位置同步
