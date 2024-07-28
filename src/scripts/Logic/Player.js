@@ -41,7 +41,7 @@ export default class Player extends Laya.Script3D {
             this.speed=speed;
         })
         Laya.stage.on("OnRotate",this,function(angle){
-            this.owner.transform.localRotationEulerY=angle;
+            this.owner.transform.localRotationEulerY=angle+this.camera.transform.rotationEuler.y;//保持行进方向与视角一致
         })
 
         Laya.stage.on("Fly",this,function(){////起飞方式之按钮
@@ -97,11 +97,11 @@ export default class Player extends Laya.Script3D {
         this.owner.transform.getForward(this.direction)
         if(this.speed!=0){
             if(!this.character.isGrounded){
-            this.owner.transform.localPositionX+=this.direction.x*(-1)*this.speed*2/100
-            this.owner.transform.localPositionZ+=this.direction.z*(-1)*this.speed*2/100
+            this.owner.transform.localPositionX+=this.direction.x*(-1)*this.speed*3/100
+            this.owner.transform.localPositionZ+=this.direction.z*(-1)*this.speed*3/100
             }else if(this.character.isGrounded){
-                this.owner.transform.localPositionX+=this.direction.x*(-1)*this.speed/100
-                this.owner.transform.localPositionZ+=this.direction.z*(-1)*this.speed/100
+                this.owner.transform.localPositionX+=this.direction.x*(-1)*this.speed*2/100
+                this.owner.transform.localPositionZ+=this.direction.z*(-1)*this.speed*2/100
             }
         }
         //平时的位置同步
