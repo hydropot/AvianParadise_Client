@@ -2,11 +2,11 @@
     "x":0,
     "type":"Scene",
     "selectedBox":2,
-    "selecteID":20,
+    "selecteID":3,
     "searchKey":"Scene",
     "props":{"width":1920,"sceneColor":"#000000","height":1080},
     "nodeParent":-1,
-    "maxID":41,
+    "maxID":42,
     "label":"Scene",
     "isOpen":true,
     "isDirectory":true,
@@ -21,7 +21,7 @@
             "source":"src/scripts/Logic/TestScene.js",
             "searchKey":"Script,TestScene",
             "removeAble":true,
-            "props":{"enabled":true},
+            "props":{"enabled":true,"TouchView":"@node:41"},
             "nodeParent":2,
             "label":"TestScene",
             "isDirectory":false,
@@ -39,14 +39,13 @@
             "props":{"y":638,"x":7,"name":"Joystick"},
             "nodeParent":2,
             "label":"Joystick",
-            "isOpen":true,
+            "isOpen":false,
             "isDirectory":true,
             "isAniNode":true,
             "hasChild":true,
             "compId":6,
             "child":[
                 {
-                    "x":30,
                     "type":"Image",
                     "searchKey":"Image,pad",
                     "props":{"y":215,"x":215,"width":430,"skin":"UI/Game_UI/摇杆.png","pivotY":215,"pivotX":215,"name":"pad","height":430},
@@ -60,7 +59,6 @@
                         ]
                 },
                 {
-                    "x":30,
                     "type":"Image",
                     "searchKey":"Image,knob",
                     "props":{"y":215,"x":215,"width":96,"skin":"UI/Game_UI/yaogan.png","pivotY":48,"pivotX":48,"name":"knob","height":96},
@@ -74,7 +72,6 @@
                         ]
                 },
                 {
-                    "x":30,
                     "type":"Script",
                     "switchAble":true,
                     "source":"src/scripts/Logic/Joystick.js",
@@ -98,14 +95,13 @@
             "props":{"y":10,"x":14,"visible":false,"name":"chatPanel"},
             "nodeParent":2,
             "label":"chatPanel",
-            "isOpen":true,
+            "isOpen":false,
             "isDirectory":true,
             "isAniNode":true,
             "hasChild":true,
             "compId":33,
             "child":[
                 {
-                    "x":30,
                     "type":"Image",
                     "searchKey":"Image,chatbg",
                     "props":{"y":83,"width":600,"skin":"UI/Game_UI/chatbg.png","name":"chatbg","height":394,"alpha":0.5},
@@ -120,7 +116,6 @@
                         ]
                 },
                 {
-                    "x":30,
                     "type":"Image",
                     "searchKey":"Image,sendbg",
                     "props":{"width":680,"skin":"UI/Game_UI/chatbg.png","name":"sendbg","height":74,"alpha":0.5},
@@ -134,7 +129,6 @@
                         ]
                 },
                 {
-                    "x":30,
                     "type":"Button",
                     "searchKey":"Button,btn_send",
                     "props":{"y":37,"x":637,"width":65,"skin":"UI/Game_UI/btn_send.png","pivotY":27,"pivotX":33,"name":"btn_send","height":53},
@@ -148,7 +142,6 @@
                         ]
                 },
                 {
-                    "x":30,
                     "type":"TextInput",
                     "searchKey":"TextInput,chatInfo",
                     "props":{"y":37,"x":340,"width":507,"valign":"middle","prompt":"输入聊天内容…","pivotY":37,"pivotX":247,"overflow":"scroll","name":"chatInfo","maxChars":100,"height":74,"fontSize":30,"font":"Microsoft YaHei","color":"#ffffff","align":"left"},
@@ -162,7 +155,6 @@
                         ]
                 },
                 {
-                    "x":30,
                     "type":"Panel",
                     "searchKey":"Panel",
                     "props":{"y":90,"x":14,"width":573,"height":372},
@@ -176,7 +168,6 @@
                         ]
                 },
                 {
-                    "x":30,
                     "type":"Script",
                     "switchAble":true,
                     "source":"src/scripts/Logic/ChatView.js",
@@ -320,6 +311,20 @@
             "isAniNode":true,
             "hasChild":false,
             "compId":10,
+            "child":[
+                ]
+        },
+        {
+            "x":15,
+            "type":"Sprite",
+            "searchKey":"Sprite,TouchView",
+            "props":{"zOrder":-1,"y":1,"x":915,"width":851,"texture":"UI/startbg.png","name":"TouchView","height":1080,"alpha":0},
+            "nodeParent":2,
+            "label":"TouchView",
+            "isDirectory":false,
+            "isAniNode":true,
+            "hasChild":false,
+            "compId":41,
             "child":[
                 ]
         }],

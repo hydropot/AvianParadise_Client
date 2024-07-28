@@ -4,7 +4,6 @@ import FightCode from "../Common/FightCode";
 import GameData from "./GameData";
 import CameraFollow from "./CameraFollow";
 import Player from "./Player";
-import test from "./test";
 import AnimalName from "../Common/AnimalName";
 import OtherPlayer from "./OtherPlayer";
 

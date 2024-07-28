@@ -113,7 +113,7 @@ export default class Joystick extends Laya.Script {
            Laya.stage.event("OnMove",this.speed);
        }
        if(this.angle!=-1){
-           Laya.stage.event("OnRotate",this.angle-90);
+           Laya.stage.event("OnRotate",this.angle);
        }
    }
 }
